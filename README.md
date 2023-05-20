@@ -4,8 +4,5 @@ Dentro del repositorio, se encuentran 2 funciones principales. La primera funci�
 
 Los archivos de texto disponibles son los siguientes:
 
-"El Quijote completo": Contiene la novela completa.
-"Una parte de El Quijote": Contiene una sección específica de la novela.
-"Número de letras en El Quijote completo": Indica la cantidad de letras en la novela completa.
-"Número de letras en la parte seleccionada de El Quijote": Indica la cantidad de letras en la sección específica seleccionada.
-Además, se adjunta un archivo en formato PNG que muestra una captura de pantalla del cluster después de haber subido la carpeta.
+"Quijote.txt": Contiene la novela completa.
+Además de hacer los programas y ver que funcionan correctamente en local, se ha probado en el cluster de UCM matemáticas y se ha probado en remoto que funcionan correctamente. Se adjunta una foto como prueba.
